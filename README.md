@@ -122,7 +122,7 @@ This suggests that the rise in HDB resale prices represents a genuine increase i
 # Project Structure
 
 ```text
-├── PDS_CA2_Public.ipynb
+├── PDS_CA2.ipynb
 ├── README.md
 ```
 
